@@ -11,6 +11,10 @@ these notes in the `git repository`_.
 .. toctree::
    :maxdepth: 2
 
+   emerging-languages/index.rst
+   thursday/index.rst
+   friday/index.rst
+
 
 .. _`Strange Loop`: https://thestrangeloop.com/
 .. _`git repository`: https://github.com/nyergler/strange-loop-2013

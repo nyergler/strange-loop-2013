@@ -7,3 +7,17 @@
 
 .. toctree::
    :maxdepth: 1
+
+   gershwin
+   daimio
+   babel
+   noether
+   nimrod
+
+   dao
+   axiomatic
+   qbrt
+   boo
+   j
+   enso
+   bodol

@@ -15,8 +15,10 @@ these notes in the `git repository`_.
    :maxdepth: 2
 
    emerging-languages/index.rst
-   thursday/index.rst
-   friday/index.rst
+
+..
+      thursday/index.rst
+      friday/index.rst
 
 
 .. _`Strange Loop`: https://thestrangeloop.com/

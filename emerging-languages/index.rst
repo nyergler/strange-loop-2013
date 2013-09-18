@@ -17,7 +17,6 @@
    dao
    axiomatic
    qbrt
-   boo
    j
    enso
    bodol

@@ -9,3 +9,4 @@
    ganks
    chrome-sec
    elm
+   xiki

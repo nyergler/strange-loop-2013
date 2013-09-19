@@ -1,5 +1,6 @@
-Qbrt Bytecode: Interface Between Code & Execution
-=================================================
+===================================================
+ Qbrt Bytecode: Interface Between Code & Execution
+===================================================
 
 :Authors: Matthew Graham @lapsu
 :Time: 14:45

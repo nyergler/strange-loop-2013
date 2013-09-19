@@ -19,4 +19,3 @@
    qbrt
    j
    enso
-   bodol
